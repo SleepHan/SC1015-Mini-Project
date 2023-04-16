@@ -2,7 +2,7 @@
 
 Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) aims to identify whether the birth rate for Singaporeans/PR in Singapore will increase or decrease given several factors, using multi-variate linear regression and binary classification
 
-![image](https://github.com/SleepHan/SC1015-Mini-Project/blob/48685ff3fa2a204c110fac8eff89c0982c477977/Screenshot%202023-04-15%20234707.png)
+![image](Images/Project%20Title.png)
 
 ### Problem Definition
 
@@ -32,7 +32,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 
 ### Contributors
 
-- Ooi Chee Han - Housing Prices, Utility Bills
+- Ooi Chee Han - Housing Prices, Marriage
 - Joseph Teo - Groceries, Income
 - Phua Zai Qin - Food Costs, School Fees
 
