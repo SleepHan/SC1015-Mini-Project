@@ -36,9 +36,11 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 - Joseph Teo - Groceries, Income
 - Phua Zai Qin - Food Costs, School Fees
 
-### References
-- https://tablebuilder.singstat.gov.sg/table/TS/M850251
-- https://tablebuilder.singstat.gov.sg/table/TS/M212882
+### Datasets
+- [Live-Births By Sex And Ethnic Group](https://tablebuilder.singstat.gov.sg/table/TS/M810051)
+- [Enrolment In Educational Institutions](https://tablebuilder.singstat.gov.sg/table/TS/M850251)
+- [Consumer Price Index](https://tablebuilder.singstat.gov.sg/table/TS/M212882)
+- [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices?resource_id=adbbddd3-30e2-445f-a123-29bee150a6fe)
 
 [Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
