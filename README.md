@@ -16,6 +16,8 @@ Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelli
 * ![scikit-learn]
 - Linear Regression
 - Binary Classification
+    - Random Forest Tree
+    - Logistic Regression
 
 ### Conclusion
 
@@ -28,11 +30,12 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 
 - Creating proper projects using Github with multiple collaborators
 - Data sourcing techniques and resources
-- Dataset cleaning
+- Dataset cleaning and preparation
+- Model performance evaluation techniques
 
 ### Contributors
 
-- Ooi Chee Han - Housing Prices, Marriage
+- Ooi Chee Han - Housing Resale Prices, Marriage
 - Joseph Teo - Groceries, Income
 - Phua Zai Qin - Food Costs, School Fees
 
