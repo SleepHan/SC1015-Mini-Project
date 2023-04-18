@@ -1,6 +1,6 @@
 # SC1015 Mini Project - _Binary Prediction of Singaporeans/PR Birth Rate_
 
-Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) aims to identify whether the birth rate for Singaporeans/PR in Singapore will increase or decrease given several factors, using multi-variate linear regression and binary classification
+Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) aims to identify whether the birth rate for Singaporeans/PR in Singapore will increase or decrease given several factors, using binary classification via random forest tree
 
 ![image](https://github.com/SleepHan/SC1015-Mini-Project/blob/a7462693a5e250391b9b6ca7566e8e8f4eb5a31e/Images/Project%20Title.png)
 
@@ -14,7 +14,6 @@ Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelli
 * ![Pandas]
 * ![Matplotlib]
 * ![scikit-learn]
-- Linear Regression
 - Binary Classification
     - Random Forest Tree
     - Logistic Regression
