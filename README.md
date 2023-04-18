@@ -2,7 +2,7 @@
 
 Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) aims to identify whether the birth rate for Singaporeans/PR in Singapore will increase or decrease given several factors, using multi-variate linear regression and binary classification
 
-![image](https://raw.githubusercontent.com/SleepHan/SC1015-Mini-Project/main/Images/Project%20Title.png?token=GHSAT0AAAAAACADTUB7VJDW5QZZKPCIWIMWZB5QFWA)
+![image](https://github.com/SleepHan/SC1015-Mini-Project/blob/a7462693a5e250391b9b6ca7566e8e8f4eb5a31e/Images/Project%20Title.png)
 
 ### Problem Definition
 
