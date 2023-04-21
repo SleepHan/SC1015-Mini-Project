@@ -16,8 +16,10 @@ Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelli
 * ![scikit-learn]
 - Binary Classification
     - Random Forest Tree
-    - K-Fold
     - Logistic Regression
+    - Bagging Classifier
+- Performance Evaluation
+    - K-Fold
 
 ### Conclusion
 
