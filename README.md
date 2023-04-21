@@ -46,6 +46,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 - [Consumer Price Index](https://tablebuilder.singstat.gov.sg/table/TS/M212882)
 - [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices?resource_id=adbbddd3-30e2-445f-a123-29bee150a6fe)
 - [F&B Services Index](https://tablebuilder.singstat.gov.sg/table/TS/M601661)
+- [Income by Household](https://tablebuilder.singstat.gov.sg/table/CT/17797)
 
 [Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
