@@ -54,7 +54,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 - Joseph Teo 
     - Variables: Groceries, Income
 - Phua Zai Qin 
-    - Varialbes: Food Costs, Cost of Education, Marriage Age
+    - Variables: Food Costs, Cost of Education, Marriage Age
 
 ### Datasets
 - [Live-Births By Sex And Ethnic Group](https://tablebuilder.singstat.gov.sg/table/TS/M810051)
