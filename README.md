@@ -66,6 +66,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 
 ### References
 - https://www.singstat.gov.sg/-/media/files/publications/population/ssnmar09-pg18-19.ashx
+- https://www.mynicehome.gov.sg/hdb-how-to/buy-your-flat/a-guide-to-hdb-bto-flat-types/
 - https://towardsdatascience.com/what-is-cross-validation-622d5a962231
 - https://www.baeldung.com/cs/cross-validation-k-fold-loo
 - https://medium.com/@arch.mo2men/what-is-bagging-classifier-45df6ce9e2a1
