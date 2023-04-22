@@ -23,7 +23,7 @@ Our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelli
 
 ### Conclusion
 
-- TBC
+- Binary Classification techniques allow for a decent model for prediction of birth rate increase/decrease in the next month, although other non-tangible factors may play a strong role as well
 
 ### Presentation Slides
 https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK4wA/edit?usp=sharing
