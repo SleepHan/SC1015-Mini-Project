@@ -52,7 +52,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
     - Variables: Housing Resale Prices, Marriage
     - Voting Classifier
 - Joseph Teo 
-    - Variables: Groceries, Income
+    - Variables: Groceries, Income, Female Labour Force
 - Phua Zai Qin 
     - Variables: Food Costs, Cost of Education, Marriage Age
 
@@ -63,6 +63,7 @@ https://docs.google.com/presentation/d/1MegqOAMAS4XsAv9m_hg364R441f3cxWtTKmo7IXK
 - [F&B Services Index](https://tablebuilder.singstat.gov.sg/table/TS/M601661)
 - [Income by Household](https://tablebuilder.singstat.gov.sg/table/CT/17797)
 - [Median Marriage Age](https://tablebuilder.singstat.gov.sg/table/TS/M830182)
+- [Female Labour Force](https://tablebuilder.singstat.gov.sg/table/TS/M182111)
 
 ### References
 - https://www.singstat.gov.sg/-/media/files/publications/population/ssnmar09-pg18-19.ashx
