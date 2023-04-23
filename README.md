@@ -28,10 +28,10 @@ To make our work more efficient and encounter less conflict, we decided follow t
 - The Random Forest Classifier has constantly been the best model when compared the models trained (Logistic Regression & Bagging Classifier)
 - The performances of the individual models ranged from ~0.6 to ~0.8
 - The resulting final model is able to achieve a decent performance 
-    - Accuracy: 0.74
-    - Precision: 0.81
-    - Recall: 0.74
-    - F1 Score: 0.77
+    - Accuracy: 0.79
+    - Precision: 0.83
+    - Recall: 0.83
+    - F1 Score: 0.83
 - Binary Classification techniques allow for a decent model for prediction of birth rate increase/decrease in the next month, although other non-tangible factors may play a strong role as well
 
 ### Presentation Slides
